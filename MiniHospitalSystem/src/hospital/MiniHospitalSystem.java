@@ -71,6 +71,7 @@ class PatientBST {
     }
 }
 
+
 class EmergencyQueue {
     private Queue<Patient> queue = new LinkedList<>();
 
