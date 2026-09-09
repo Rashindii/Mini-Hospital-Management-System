@@ -111,6 +111,7 @@ class TreatmentRecord {
     }
 }
 
+
 class TreatmentStack {
     private Stack<TreatmentRecord> stack = new Stack<>();
 
